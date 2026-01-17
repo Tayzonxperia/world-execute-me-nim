@@ -1,0 +1,17 @@
+//Setting Default: 
+//Direct all inquires to the
+//Information Team regarding default 
+s_lan 1 
+s_cheats 0 
+s_force_exit 0
+s_death_allow 0
+s_allowdownload 0  
+s_allowupload 0  
+s_timeout 99999999999999  
+m_limitsouls 4  
+ser_logfile 1  
+ser_logbans 1
+ser_logecho 1 
+// RCON Settings
+rcon_password "/DJOWI&42-849049011284241221f" 
+rcon_id "????????"

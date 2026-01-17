@@ -1,0 +1,7 @@
+let me = new(Loveable(Me, 0, false, 'F'))
+
+let you = new(Lovable(You, 100, false, 'M'))
+
+Adding typeof(me) and typeof(you)
+
+Generating...

@@ -1,0 +1,7 @@
+UnhandledException: System.InvalidOperationException: Failed to Create the simulated world.
+World.Pak does not exist, Unable to access file. 
+simulationManager.terminateWorld() encountered an unexpected error while attempting to shut down the simulated world. The termination process was unable to complete successfully due to the absence of World File.
+StackTrace:
+   at SimulationManager.TerminateWorld() in Program.cs:line 123
+   at Program.Main() in Program.cs:line 45
+   at world.Gener-----

@@ -1,0 +1,7 @@
+{
+	Name: "Me",
+	Age: 0,
+	x-Axis: 42.32,
+	y-Axis: 23.54,
+	z-Axis: 0.42,
+}

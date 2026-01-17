@@ -1,0 +1,10 @@
+Thing me = new Lovable(\"Me\",0,false,'F');
+
+Thing you = new Lovable(\"You\", 100, false,'M');
+
+
+Adding. 'You' and 'Me'.
+Generating the Universe
+Adding Star and Moons..
+Crafting the Narrative.
+00X00031212131238797221

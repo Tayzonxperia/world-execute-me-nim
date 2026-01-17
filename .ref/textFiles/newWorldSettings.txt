@@ -1,0 +1,10 @@
+
+    ,-:` \;',`'-, 	   Welcome to Arcadia 
+  .'-;_,;  ':-;_,'.	------------------------
+ /;   '/    ,  _`.-\	Alternative Name: Terra
+| '`. (`     /` ` \`|	IsLivable: True
+|:.  `\`-.   \_   / |	Surface Temp: Min -89'C | Max 56.7'C
+|     (   `,  .`\ ;'|	Rotational: 365 days
+ \     | .'     `-'/	Poupulation: 2
+  `.   ;/        .'	Seed Key: 0892471240214782
+    `'-._____.

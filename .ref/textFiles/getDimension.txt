@@ -1,0 +1,8 @@
+{
+	//Diameter and Scalar not shown
+	Name: "Me",
+	Age: 0,
+	Center: 2,3,
+	Radius: 5,
+	Circumference: 32.42, 
+}

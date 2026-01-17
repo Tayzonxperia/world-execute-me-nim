@@ -1,0 +1,7 @@
+World failed to shutdown! 
+Traceback (most recent call last)
+/home/me/simulate.nim   getWorldStatus
+/home/me/simulate.nim   terminateWorld
+Error: unhandledexception: Failed to terminate the simulated world [SimulatorTermDefect]
+SimulationManager.terminateWorld(world: World) was unable to terminate the simulated world
+due to a unknown error. Raised unhandledexception

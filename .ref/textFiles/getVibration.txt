@@ -1,0 +1,10 @@
+{
+  "sensation": "vibration",
+  "description": "Feeling vibration is the perception of rhythmic oscillations or shaking movements through tactile senses. It is often experienced as a buzzing, trembling, or pulsating sensation.",
+  "effects": [
+    "Heightened tactile awareness",
+    "Sensory stimulation",
+    "Possible discomfort or annoyance at high intensity",
+    "May interfere with fine motor skills or concentration"
+  ],
+}

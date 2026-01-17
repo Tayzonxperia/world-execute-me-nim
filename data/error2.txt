@@ -1,0 +1,8 @@
+
+World file not found! 
+Traceback (most recent call last)
+/home/me/pakldr.nim     loadPak
+/home/me/simulate.nim   getWorldStatus
+/home/me/simulate.nim   createWorld
+Error: unhandledexception: Failed to create the simulated world [SimulatorCreateDefect]
+World.pak does not exist: Caught execption
