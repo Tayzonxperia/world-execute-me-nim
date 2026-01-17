@@ -1,3 +1,0 @@
-if(me is Eggplant){
-you.addAttribute(me.getAttribute('nutrients'))
-}

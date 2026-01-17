@@ -1,9 +1,0 @@
-             =.        Eggplant
-           :--=     --------------
-         .+=-*=*    isEdible: True
-         .:%@@**    isObtainable: True
-       +--%@@#*     isNatural: True
-     +:=@@@@@++     foodType: Vegtable
-    *:#@@@@@++:     nutritionalValue: 256
-    %+@@@%*-++      itemID: 1321321
-    .@@%+--#+       objectID: 302193      
